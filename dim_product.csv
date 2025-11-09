@@ -1,0 +1,37 @@
+product_id,product_name,category,sub_category,variant
+1,Intel i5 CPU,CPU,Intel i5,Office
+2,Intel i7 CPU,CPU,Intel i7,Office
+3,Intel i9 CPU,CPU,Intel i9,Lite
+4,AMD Ryzen 5 CPU,CPU,AMD Ryzen 5,Pro
+5,AMD Ryzen 7 CPU,CPU,AMD Ryzen 7,Pro
+6,AMD Ryzen 9 CPU,CPU,AMD Ryzen 9,Standard
+7,NVIDIA RTX 3060 GPU,GPU,NVIDIA RTX 3060,Lite
+8,NVIDIA RTX 3070 GPU,GPU,NVIDIA RTX 3070,Office
+9,NVIDIA RTX 3080 GPU,GPU,NVIDIA RTX 3080,Pro
+10,AMD RX 6700 GPU,GPU,AMD RX 6700,Standard
+11,AMD RX 6800 GPU,GPU,AMD RX 6800,Gaming
+12,AMD RX 6900 GPU,GPU,AMD RX 6900,Pro
+13,"24"" FHD Monitor",Monitor,"24"" FHD",Lite
+14,"27"" QHD Monitor",Monitor,"27"" QHD",Standard
+15,"32"" 4K Monitor",Monitor,"32"" 4K",Lite
+16,"24"" Gaming Monitor",Monitor,"24"" Gaming",Pro
+17,"27"" Curved Monitor",Monitor,"27"" Curved",Gaming
+18,"32"" Ultrawide Monitor",Monitor,"32"" Ultrawide",Pro
+19,Mechanical RGB Keyboard,Keyboard,Mechanical RGB,Lite
+20,Membrane Office Keyboard,Keyboard,Membrane Office,Office
+21,Wireless Bluetooth Keyboard,Keyboard,Wireless Bluetooth,Gaming
+22,Gaming Mechanical Keyboard,Keyboard,Gaming Mechanical,Lite
+23,Compact 60% Keyboard,Keyboard,Compact 60%,Lite
+24,Ergonomic Keyboard,Keyboard,Ergonomic,Office
+25,Gaming RGB Mouse,Mouse,Gaming RGB,Office
+26,Wireless Office Mouse,Mouse,Wireless Office,Gaming
+27,Ergonomic Vertical Mouse,Mouse,Ergonomic Vertical,Lite
+28,Bluetooth Multi-device Mouse,Mouse,Bluetooth Multi-device,Office
+29,Gaming Wireless Mouse,Mouse,Gaming Wireless,Pro
+30,Trackball Mouse,Mouse,Trackball,Gaming
+31,ATX Gaming Motherboard,Motherboard,ATX Gaming,Gaming
+32,Micro-ATX Office Motherboard,Motherboard,Micro-ATX Office,Standard
+33,Mini-ITX Compact Motherboard,Motherboard,Mini-ITX Compact,Office
+34,ATX Workstation Motherboard,Motherboard,ATX Workstation,Office
+35,Micro-ATX Home Motherboard,Motherboard,Micro-ATX Home,Office
+36,Mini-ITX HTPC Motherboard,Motherboard,Mini-ITX HTPC,Standard

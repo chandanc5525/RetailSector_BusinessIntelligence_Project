@@ -1,0 +1,201 @@
+customer_id,customer_name,customer_segment,market_id,city,state,zone
+1,Customer_001,Corporate,2,Chandigarh,State_4,South
+2,Customer_002,Educational,2,Hyderabad,State_6,South
+3,Customer_003,Government,11,Kathmandu,State_5,East
+4,Customer_004,E-commerce,1,Jaipur,State_4,South
+5,Customer_005,Retail Chain,11,Pune,State_9,Nepal
+6,Customer_006,Educational,5,Pokhara,State_10,North
+7,Customer_007,Government,3,Lucknow,State_9,East
+8,Customer_008,Corporate,10,Bangalore,State_6,South
+9,Customer_009,Government,4,Bangalore,State_6,Nepal
+10,Customer_010,Retail Chain,9,Pokhara,State_9,East
+11,Customer_011,E-commerce,1,Lalitpur,State_9,Nepal
+12,Customer_012,Government,10,Bhopal,State_3,West
+13,Customer_013,Government,8,Kathmandu,State_8,East
+14,Customer_014,Corporate,15,Lucknow,State_8,East
+15,Customer_015,Corporate,5,Mumbai,State_1,East
+16,Customer_016,Corporate,7,Lucknow,State_6,South
+17,Customer_017,Retail Chain,1,Bhopal,State_8,Nepal
+18,Customer_018,Educational,9,Kolkata,State_10,South
+19,Customer_019,Government,1,Delhi,State_10,East
+20,Customer_020,Government,7,Chandigarh,State_1,North
+21,Customer_021,Educational,1,Delhi,State_7,West
+22,Customer_022,Educational,9,Hyderabad,State_1,South
+23,Customer_023,E-commerce,12,Hyderabad,State_7,South
+24,Customer_024,Government,15,Lalitpur,State_9,West
+25,Customer_025,E-commerce,6,Chennai,State_1,Nepal
+26,Customer_026,E-commerce,3,Chandigarh,State_10,North
+27,Customer_027,E-commerce,12,Bangalore,State_8,West
+28,Customer_028,Corporate,7,Lucknow,State_6,West
+29,Customer_029,Educational,15,Pokhara,State_1,North
+30,Customer_030,Retail Chain,9,Pokhara,State_7,North
+31,Customer_031,Corporate,13,Chennai,State_6,West
+32,Customer_032,Educational,7,Lucknow,State_9,North
+33,Customer_033,Retail Chain,15,Kathmandu,State_5,West
+34,Customer_034,Corporate,2,Lalitpur,State_8,East
+35,Customer_035,Corporate,11,Lalitpur,State_1,South
+36,Customer_036,Corporate,13,Chennai,State_3,West
+37,Customer_037,Corporate,14,Kolkata,State_10,West
+38,Customer_038,Retail Chain,8,Jaipur,State_6,North
+39,Customer_039,Government,1,Chandigarh,State_3,South
+40,Customer_040,Corporate,5,Hyderabad,State_10,Nepal
+41,Customer_041,Educational,8,Lucknow,State_5,North
+42,Customer_042,Educational,9,Hyderabad,State_5,West
+43,Customer_043,E-commerce,6,Chandigarh,State_5,North
+44,Customer_044,Corporate,11,Chandigarh,State_5,North
+45,Customer_045,Retail Chain,6,Mumbai,State_1,Nepal
+46,Customer_046,Government,1,Bangalore,State_8,South
+47,Customer_047,Educational,8,Ahmedabad,State_9,West
+48,Customer_048,Educational,10,Delhi,State_5,South
+49,Customer_049,Educational,6,Mumbai,State_7,North
+50,Customer_050,Educational,12,Chandigarh,State_1,West
+51,Customer_051,Corporate,6,Lalitpur,State_8,North
+52,Customer_052,E-commerce,4,Lalitpur,State_6,Nepal
+53,Customer_053,Corporate,15,Ahmedabad,State_8,Nepal
+54,Customer_054,Government,15,Bangalore,State_1,North
+55,Customer_055,Government,6,Jaipur,State_1,East
+56,Customer_056,Educational,15,Lalitpur,State_1,Nepal
+57,Customer_057,Corporate,2,Bhopal,State_2,South
+58,Customer_058,Government,6,Kathmandu,State_2,Nepal
+59,Customer_059,Retail Chain,4,Kolkata,State_6,South
+60,Customer_060,Educational,2,Bhopal,State_3,South
+61,Customer_061,Educational,14,Jaipur,State_4,Nepal
+62,Customer_062,E-commerce,3,Jaipur,State_8,South
+63,Customer_063,E-commerce,4,Hyderabad,State_7,North
+64,Customer_064,Educational,8,Pune,State_9,South
+65,Customer_065,Corporate,8,Chennai,State_4,West
+66,Customer_066,Educational,1,Delhi,State_7,East
+67,Customer_067,Corporate,6,Bhopal,State_2,West
+68,Customer_068,Educational,9,Bangalore,State_10,North
+69,Customer_069,Retail Chain,3,Bhopal,State_1,North
+70,Customer_070,Educational,14,Lalitpur,State_2,East
+71,Customer_071,Corporate,3,Delhi,State_10,Nepal
+72,Customer_072,Government,13,Lalitpur,State_4,North
+73,Customer_073,Educational,2,Bangalore,State_2,East
+74,Customer_074,Educational,1,Jaipur,State_5,South
+75,Customer_075,Corporate,2,Bhopal,State_1,South
+76,Customer_076,Educational,12,Lalitpur,State_6,North
+77,Customer_077,Educational,9,Lalitpur,State_8,East
+78,Customer_078,Retail Chain,3,Chandigarh,State_9,West
+79,Customer_079,Educational,12,Kathmandu,State_3,South
+80,Customer_080,Retail Chain,7,Pokhara,State_9,South
+81,Customer_081,Educational,2,Lucknow,State_9,West
+82,Customer_082,E-commerce,1,Pune,State_9,East
+83,Customer_083,Educational,10,Pokhara,State_4,North
+84,Customer_084,E-commerce,11,Lalitpur,State_4,East
+85,Customer_085,Educational,15,Hyderabad,State_1,Nepal
+86,Customer_086,Educational,2,Ahmedabad,State_5,Nepal
+87,Customer_087,E-commerce,13,Chandigarh,State_1,South
+88,Customer_088,Educational,5,Delhi,State_9,North
+89,Customer_089,Retail Chain,13,Jaipur,State_9,West
+90,Customer_090,Government,3,Delhi,State_7,West
+91,Customer_091,E-commerce,1,Chennai,State_9,East
+92,Customer_092,Educational,15,Kolkata,State_7,North
+93,Customer_093,Retail Chain,13,Delhi,State_3,East
+94,Customer_094,Educational,11,Chennai,State_9,Nepal
+95,Customer_095,Government,7,Ahmedabad,State_3,East
+96,Customer_096,Government,4,Lalitpur,State_10,Nepal
+97,Customer_097,Corporate,14,Bhopal,State_7,Nepal
+98,Customer_098,Corporate,8,Chennai,State_1,Nepal
+99,Customer_099,Corporate,1,Bhopal,State_9,South
+100,Customer_100,Retail Chain,9,Lucknow,State_10,Nepal
+101,Customer_101,Government,5,Kathmandu,State_2,North
+102,Customer_102,Government,1,Chennai,State_1,South
+103,Customer_103,Educational,8,Kolkata,State_3,North
+104,Customer_104,Retail Chain,9,Kathmandu,State_10,Nepal
+105,Customer_105,Educational,3,Chandigarh,State_1,South
+106,Customer_106,Educational,15,Delhi,State_1,West
+107,Customer_107,Corporate,10,Pune,State_9,East
+108,Customer_108,Educational,6,Bhopal,State_2,South
+109,Customer_109,Corporate,2,Kathmandu,State_2,South
+110,Customer_110,Corporate,8,Lalitpur,State_3,North
+111,Customer_111,Educational,2,Bhopal,State_9,North
+112,Customer_112,Educational,14,Hyderabad,State_9,North
+113,Customer_113,Retail Chain,14,Kathmandu,State_1,South
+114,Customer_114,E-commerce,10,Pokhara,State_6,South
+115,Customer_115,Corporate,13,Lalitpur,State_2,East
+116,Customer_116,Corporate,13,Lucknow,State_9,East
+117,Customer_117,Educational,13,Bhopal,State_7,West
+118,Customer_118,Corporate,9,Kathmandu,State_3,North
+119,Customer_119,Corporate,15,Lalitpur,State_7,South
+120,Customer_120,E-commerce,12,Pokhara,State_10,South
+121,Customer_121,Government,12,Lalitpur,State_8,Nepal
+122,Customer_122,Corporate,13,Hyderabad,State_5,North
+123,Customer_123,Corporate,3,Chennai,State_1,East
+124,Customer_124,Government,15,Lucknow,State_6,West
+125,Customer_125,E-commerce,15,Hyderabad,State_1,East
+126,Customer_126,Government,9,Pokhara,State_4,East
+127,Customer_127,Government,4,Pokhara,State_6,West
+128,Customer_128,Retail Chain,7,Delhi,State_10,West
+129,Customer_129,Educational,14,Bhopal,State_10,Nepal
+130,Customer_130,Government,1,Kathmandu,State_7,Nepal
+131,Customer_131,Educational,10,Pune,State_3,Nepal
+132,Customer_132,Corporate,6,Chandigarh,State_6,Nepal
+133,Customer_133,Corporate,5,Lucknow,State_8,West
+134,Customer_134,Corporate,1,Mumbai,State_5,West
+135,Customer_135,Retail Chain,3,Pokhara,State_1,North
+136,Customer_136,Retail Chain,12,Chennai,State_2,Nepal
+137,Customer_137,Educational,8,Jaipur,State_5,West
+138,Customer_138,Government,6,Mumbai,State_10,East
+139,Customer_139,Corporate,3,Kolkata,State_3,East
+140,Customer_140,Government,12,Mumbai,State_7,South
+141,Customer_141,Educational,2,Pokhara,State_1,West
+142,Customer_142,Corporate,2,Chennai,State_5,West
+143,Customer_143,E-commerce,12,Bhopal,State_4,West
+144,Customer_144,Corporate,5,Bhopal,State_6,East
+145,Customer_145,Government,1,Chennai,State_1,North
+146,Customer_146,E-commerce,15,Bangalore,State_9,East
+147,Customer_147,Corporate,7,Pokhara,State_8,North
+148,Customer_148,E-commerce,5,Lucknow,State_8,West
+149,Customer_149,Educational,1,Delhi,State_7,Nepal
+150,Customer_150,Government,14,Lucknow,State_2,West
+151,Customer_151,Retail Chain,10,Lucknow,State_4,South
+152,Customer_152,Educational,3,Kolkata,State_5,South
+153,Customer_153,E-commerce,10,Kathmandu,State_6,West
+154,Customer_154,Retail Chain,8,Chandigarh,State_4,West
+155,Customer_155,E-commerce,4,Jaipur,State_9,North
+156,Customer_156,Educational,13,Pokhara,State_10,West
+157,Customer_157,Retail Chain,5,Lalitpur,State_8,South
+158,Customer_158,Educational,4,Kolkata,State_1,East
+159,Customer_159,Government,1,Mumbai,State_3,Nepal
+160,Customer_160,Educational,4,Hyderabad,State_3,Nepal
+161,Customer_161,Educational,15,Bangalore,State_5,North
+162,Customer_162,E-commerce,3,Jaipur,State_2,North
+163,Customer_163,Retail Chain,7,Pokhara,State_4,West
+164,Customer_164,E-commerce,13,Pokhara,State_1,West
+165,Customer_165,Government,7,Kathmandu,State_2,East
+166,Customer_166,E-commerce,10,Delhi,State_8,North
+167,Customer_167,Government,1,Chandigarh,State_10,Nepal
+168,Customer_168,Corporate,12,Kathmandu,State_8,South
+169,Customer_169,Government,2,Bangalore,State_1,West
+170,Customer_170,Corporate,1,Ahmedabad,State_8,North
+171,Customer_171,Educational,1,Mumbai,State_9,North
+172,Customer_172,Retail Chain,1,Lucknow,State_3,North
+173,Customer_173,E-commerce,3,Hyderabad,State_4,South
+174,Customer_174,E-commerce,5,Bhopal,State_4,Nepal
+175,Customer_175,Government,8,Pokhara,State_5,South
+176,Customer_176,E-commerce,2,Pune,State_4,North
+177,Customer_177,Corporate,15,Delhi,State_8,North
+178,Customer_178,Educational,1,Pokhara,State_1,North
+179,Customer_179,E-commerce,12,Jaipur,State_6,North
+180,Customer_180,Educational,13,Lalitpur,State_3,South
+181,Customer_181,Corporate,9,Jaipur,State_6,East
+182,Customer_182,Retail Chain,15,Mumbai,State_1,North
+183,Customer_183,Corporate,5,Kathmandu,State_1,East
+184,Customer_184,Government,10,Delhi,State_9,West
+185,Customer_185,Retail Chain,7,Lucknow,State_9,West
+186,Customer_186,Government,4,Pokhara,State_6,East
+187,Customer_187,Government,12,Ahmedabad,State_3,East
+188,Customer_188,Government,1,Hyderabad,State_5,East
+189,Customer_189,Corporate,14,Pokhara,State_1,North
+190,Customer_190,Retail Chain,14,Hyderabad,State_1,South
+191,Customer_191,Educational,5,Mumbai,State_4,Nepal
+192,Customer_192,Corporate,13,Bhopal,State_8,Nepal
+193,Customer_193,Government,7,Mumbai,State_2,Nepal
+194,Customer_194,Retail Chain,12,Chandigarh,State_3,East
+195,Customer_195,Retail Chain,5,Lalitpur,State_2,East
+196,Customer_196,E-commerce,7,Hyderabad,State_9,South
+197,Customer_197,Government,5,Bhopal,State_7,South
+198,Customer_198,Retail Chain,2,Delhi,State_10,West
+199,Customer_199,Corporate,15,Ahmedabad,State_8,Nepal
+200,Customer_200,Corporate,3,Jaipur,State_10,West

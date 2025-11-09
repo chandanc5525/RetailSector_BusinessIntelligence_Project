@@ -1,0 +1,16 @@
+market_id,market_name,zone,country
+1,Delhi,North,India
+2,Mumbai,North,India
+3,Bangalore,North,India
+4,Chennai,North,India
+5,Kolkata,South,India
+6,Hyderabad,South,India
+7,Pune,South,India
+8,Ahmedabad,South,India
+9,Jaipur,West,India
+10,Lucknow,West,India
+11,Chandigarh,West,India
+12,Bhopal,East,India
+13,Kathmandu,East,India
+14,Pokhara,Nepal,Nepal
+15,Lalitpur,Nepal,Nepal
